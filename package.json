@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "bin": {
-    "mycli": "./bin/index.js"
+    "centiloquy-cli": "./bin/index.js"
   },
   "keywords": [],
   "author": "",
