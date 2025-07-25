@@ -12,7 +12,7 @@ A developer-friendly CLI tool to **scaffold integration actions** for internal p
 To install this tool globally from npm:
 
 ```bash
-npm install -g centiloquy-cli
+npm install -g centiloquy-cli-tool
 ```
 
 ## 🚀 Usage
