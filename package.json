@@ -1,0 +1,17 @@
+{
+  "name": "centiloquy-cli-tool",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "bin": {
+    "mycli": "./bin/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "commander": "^14.0.0",
+    "inquirer": "^12.8.2"
+  }
+}
